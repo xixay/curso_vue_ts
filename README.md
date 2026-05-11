@@ -1,5 +1,5 @@
 # curso_vue_ts
-[<< INDICE](https://github.com/xixay/ayuda-memoria/tree/main)
+[<< INDICE](https://xixay.github.io/ayuda-memoria/)
 
 | Tema | Enlace | Tema | Enlace |
 |------|--------|------|--------|
@@ -25,4 +25,4 @@
 <!-- [>> BACKEND + FRONTEND](https://github.com/xixay/docker-node-vue-production) -->
 
 
-[<< INDICE](https://github.com/xixay/ayuda-memoria/tree/main)
+[<< INDICE](https://xixay.github.io/ayuda-memoria/)
