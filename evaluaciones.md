@@ -2,7 +2,7 @@
 
 | Tarea | Enlace | Tarea | Enlace |
 |------|--------|------|--------|
-| **1.- tarea 01** | [Ver](https://github.com/xixay/curso_vue_ts_tarea1) | **2. cuestionarios** | [Ver](https://github.com/xixay/curso_vue_ts_cuestionarios) |
+| **1.- tarea 01** | [Ver](/tarea-01) | **2. cuestionarios** | [Ver](/cuestionarios) |
 
 # Repositorios adicionales del curso
 

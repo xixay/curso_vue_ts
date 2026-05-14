@@ -20,7 +20,9 @@ export default defineConfig({
         text: 'Contenido',
         items: [
           { text: 'Inicio', link: '/' },
-          { text: 'Evaluaciones', link: '/evaluaciones' }
+          { text: 'Evaluaciones', link: '/evaluaciones' },
+          { text: 'Tarea 01', link: '/tarea-01' },
+          { text: 'Cuestionarios', link: '/cuestionarios' }
         ]
       }
     ],
